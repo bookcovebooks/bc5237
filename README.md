@@ -1,8 +1,8 @@
 # Buckin’ the Air
 
-Author: Bud La Mar
+Author: Bud La Mar  
 Illustrator: Frank Hoban  
-Original Publisher: The Blue Book Magazine
+Original Publisher: The Blue Book Magazine  
 Original Publication Date: 1929
 
 ## About This Book
