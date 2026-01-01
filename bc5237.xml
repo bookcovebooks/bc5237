@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd" type="application/xml-dtd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+         <title>Buckin’ the Air</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Published by bookcove.net</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>March, 1929 issue of The Blue Book magazine</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="titlepage">
+        <figure rend="center70">
+          <graphic url="images/illus-fpc.png"/>
+          <figDesc>A lady running toward a crashed biplane</figDesc>
+        </figure>
+        <div type='title-block'>
+          <p rend='the_title'>Buckin’ the Air</p>
+          <p rend='the_author'>By Bud La Mar</p>
+          <p rend='the_illustrator'>Illustrated by Frank Hoban</p>
+        </div>
+        <quote>
+<p rend='tp'>The wild, wild adventure of two demon rodeo-riders who dare
+a new element in a airplane is here picturesquely set forth.</p>
+        </quote>
+      </div>
+    </front>
+    <body>
+
+<div>
+
+<p>Just previous to the disastrous events which I am about to relate,
+Bearcat Gibson and me was the happiest cowboys this side of Denver. Old
+Lady Luck had patted us on the back and filled our pockets. The trail
+ahead was glitterin’ bright with the promise of more to come. After a
+long spell of hard luck, we finally stood on our own feet, lookin’ old
+man Trouble in the eye and daring him to do his worst.</p>
+
+<p>After a great deal of planning and schemin’ we had managed to sneak
+up on the rest of the boys and win most all the money offered for prizes
+at the Eldora rodeo. This in itself was reason enough to cause great
+rejoicing, but on the last day of the Eldora show we had received a
+message from our old pal Clay Hinkle, bearing news of a very important
+and joyous nature. The letter read as follows:</p>
+
+<quote>
+<p rend='ni'>Dere boys:</p>
+
+<p>Well, you ok horsethieves, I thot I wood rite you a few lines to let
+you no thet I had bin elekted head judge of the San Dominick Rodeo.
+Maybe you thot I had fergit about the time you got me out of jale in
+Berryville for chawin the cherifs ear off ha ha! Well, ole Clay Hinkle
+is a man which does not ferkit past favors. If yore intrested in splitin
+1st and 2d mony in the bronk ridin I beg to state thet I will be only
+too glad to give it to you. You understand I wood not go around offerin
+this propozichon to every Tom, Dick and Harry, but you boys bein spechel
+frends of mine I thot I wood give you 1st krak at it at the reguler
+rates 50-50. This is a bargin on akount the competichon will be very
+keen and I feel shure I coud git better terms only ole Clay Hinkle is a
+man which does not fergit past favors.</p>
+
+<p>I beg to remain as ever yores sincarly and Korjaly yores.</p>
+
+<signed>Clay Hinkle.</signed>
+</quote>
+
+<milestone rend="stars"/>
+
+<p>Of course we aimed to make the San Dominick stampede anyhow, but like
+Clay wrote, the competition was always very keen at that show on account
+it caught all the top hands on their way to the Eastern contests. Even
+after parting with half our winnings, we stood to collect a flock of
+money which wasn’t to be sneezed at.</p>
+
+<p>We cashed the checks donated to us by the Eldora rodeo committee and
+proceeded to stage a celebration befitting the occasion, before getting
+under way for San Dominick.</p>
+
+<p>But as luck would have it, the natives mistook our friendly ceremony
+for an effort on our part to destroy and plunder their moral community.
+Trouble came on the heels of this unfounded suspicion, and we was called
+upon to surrender and be led peaceful from the scene.</p>
+
+<p>The marshal who made the suggestion was a big, tall, nervous-looking
+<foreign>hombre</foreign> with a diving Adam’s apple and a large flowing
+pinto mustache. The only weapon he carried—that we could see, anyway--was
+a big crooked cane. And we wasn’t to be overawed by any such ineffective
+display of force.</p>
+
+<p><quote>Listen, Wild Bill,</quote> said Bearcat to the marshal.
+<quote>As much as we ’preciate your kind offer, and not wishin’ to cast
+any asparagus at your jail, we been in better ones and could not
+possibly be interested in visitin’ yours.</quote></p>
+
+<p>A crowd had collected around us. Election-time was drawin’ near, and
+the marshal had to protect his reputation. His Adam’s apple made a few
+rapid trips from his chin to his belt-buckle and back again; the spotted
+misplaced horse’s tail bristled like a bunch of quills; he elevated the
+crooked cane and charged us in the scientific fashion of a blind
+bull.</p>
+
+<p><quote>Whoo--ah!</quote> said the marshal, snorting and pawing at the
+air like a bear with a wasp up his nose. But immediate developments
+disclosed the surprising fact that getting hit with a cane wasn’t a
+thing which we considered a privilege.</p>
+
+<p>Bearcat and me stepped aside and allowed the marshal to get between
+us. Then Bearcat placed a boot-heel in the seat of his pants and pushed
+hard. The marshal’s gasping form shot across the sidewalk like a flying
+comet and plowed its way through a plate-glass window which protected a
+display of elegant female lingerie.</p>
+
+<milestone rend="stars"/>
+
+<p>The old walrus began makin’ frantic swimmin’ motions,
+wallowin’ in a sea of broken glass and silk negligees. Puffing like a
+wind-broke horse and clutching madly for support, he pulled down whole
+rows of pink stockin’s and bright-colored, beflowered shawls and
+kimonos. Two wax dummies with Fourth-of-July complexions and adorned in
+glitterin’ Paris creations came tumblin’ down on top of him, addin’ to
+the final touch of destruction.</p>
+
+<p><quote>Whoo--ah!</quote> screamed the marshal from under the smiling
+dummies. <quote>Just wait till I git my hands on ye!</quote></p>
+
+<p>We was willing to wait. We couldn’t got away had we wanted to.
+Holding our shaking sides with both hands, we howled like a pair of
+treed panthers. This was too gosh-awful funny for words. Tears running
+from our eyes, we failed to notice the approach of a new and
+unlooked-for enemy, which turned out to be far more dangerous than the
+befuddled marshal.</p>
+
+<p>The first I knew of it was when something heavy crashed on top of my
+head, which was luckily protected by my big hat. I sat down on the
+sidewalk and rolled to the side, lookin’ up to see who was attackin’ me.
+I beheld a large, powerful female belaborin’ Bearcat with what looked to
+me like a bare human leg cut off above the knee. Not considering it safe
+to remain gazing at this strange, grisly spectacle, I regained a
+standing posture and took out from there like a wild colt with his tail
+on fire.</p>
+
+<p>On the edge of town I was passed by a flyin’ shadow which I
+recognized as Bearcat Gibson. I glanced fearfully back over my shoulder
+and saw a big mob of people hot on our trail. The marshal led the chase,
+waving a big old pistol he had produced from somewhere, and scattering
+silk doodads in his wake. Right on his heels Battling Mary followed,
+brandishing the human leg and uttering blood-curdling yells. In another
+half-second I had caught up with Bearcat.</p>
+
+<p>We was leavin’ Eldora, havin’ become awful tired and disgusted with
+that particular metropolis.</p>
+
+<milestone rend="stars"/>
+
+<p>A mile farther and still goin’ strong, we caught up with a
+dilapidated flivver which was fluttering between the fences at the speed
+of a limping turtle. Two men dressed in greasy unionalls sat in the
+front seat, fiddling with numerous buttons and levers which seemed to
+have bearin’ on the exhausted engine under the hood.</p>
+
+<p><quote>Hop in, boys!</quote> said the driver. <quote>You might beat
+us on a short spurt, but you’ll get farther with old Lili.</quote></p>
+
+<p>We agreed with him on that, as we was beginning to falter in our
+stride. We scrambled inside the car, which seemed to grunt and squeak in
+protest at the added weight. Our pursuers had not yet appeared over the
+last hill, and we sank down on the back seat, feeling very kindly toward
+the men which had surely rescued us from a terrible fate.</p>
+
+<p><quote>Lord! Knockin’ folks around with human legs!</quote> said I,
+shuddering at the thought. <quote>Can you imagine anything so
+crool?</quote></p>
+
+<p><quote>It wasn’t no human leg,</quote> put in Bearcat. <quote>It was
+one of them there artificial things they display stockings on, in
+stores. The woman was the owner of the layout spoilt by the marshal.
+They should watch that woman. She’ll murder somebody one of these days.
+I swear I never see such a mad person!</quote> Bearcat rubbed various
+parts of his anatomy, very careful.</p>
+
+<p><quote>Where you boys goin’?</quote> grinned one of the men in the
+front seat.</p>
+
+<p><quote>We aint so much goin’ anywheres,</quote> I answered.
+<quote>We’re just leavin’ Eldora.</quote></p>
+
+<p><quote>Well, we’ll have to let you out pretty soon. We aint goin’
+far,</quote> continued the man.</p>
+
+<milestone rend="stars"/>
+
+<p>Disaster was starin’ us in the face, and despair settled upon us. We
+knew them mad natives wouldn’t give up the chase so easy. Most likely
+they’d have reward-posters out before morning. Dead or alive!</p>
+
+<p>The little car had come to a stop in front of a gate opening into a
+large pasture. In the pasture we saw an airyplane setting on the
+ground.</p>
+
+<p><quote>As far as we go!</quote> said the man, gettin’ out of the car
+to open the gate. <quote>That’s our crate in there.</quote></p>
+
+<p>The other fellow turned around and looked us over.</p>
+
+<p><quote>Don’t want to take a ride in the old lady, do you,
+boys?</quote> he said anxious-like. <quote>The thrill of a lifetime, and
+safer than old Lili, here. Three dollars only for fifteen minutes of
+exhilarating flying through the ether!</quote></p>
+
+<p>I have a suspicion we could of went for a dollar and a half. You
+could tell at a glance that prosperity had deserted them particular
+aviators at the last crossroads. But as much as I desired to leave these
+parts, I did not crave any flying experiences. It was too much like
+jumping from the skillet into the stove.</p>
+
+<p>But my crazy partner right away shut both eyes and jumped astraddle
+of the idea with all the enthusiasm of a roving preacher for a repenting
+sinner.</p>
+
+<p><quote>Shore!</quote> he whispered, nudging me in the ribs. <quote>We
+could get them fellows to take us to San Dominick, where a rodeo is to
+be put on in a few days. Boy, we’re shore lucky!</quote> Then, without
+waitin’ for me to say a word, he assumed the important and worried
+expression of a man who has just bought a string of oil-wells and has
+only a few minutes to reach a radio in order to accept the
+nomination.</p>
+
+<p><quote>We’d like to go to San Dominick,</quote> he said to the
+aviator. <quote>And we’d like to leave fairly soon.</quote></p>
+
+<p>The aviator’s knees kinda buckled under him. All he could do for a
+spell was to look at us with tears in his eyes.</p>
+
+<p><quote>Do you mean it?</quote> he asked. <quote>Boys, please don’t
+kid a poor old man!</quote></p>
+
+<p><quote>Shore we mean it,</quote> answered Bearcat. <quote>If the
+price is right.</quote></p>
+
+<p><quote>The price couldn’t be anything but right,</quote> said the
+aviator. <quote>A few twists here and there, and we’re goin’ from here,
+gentlemen.</quote></p>
+
+<p><quote>Hey!</quote> I put in, alarmed at the way things were coming
+out. <quote>Who said I wanted to fly? I’m askin’ you. Did I ever express
+the slightest wish to do so? Did I, eh?</quote></p>
+
+<p>The aviator cast a murderous and poisonous look upon me. Words
+dropped from his mouth like sweet drops of strychnine.</p>
+
+<p><quote>Oh, come, now!</quote> he said, trying to be pleasant.
+<quote>There’s no danger, you know. Surely a brave cowboy like you is
+not afraid of a little spin in the air!</quote></p>
+
+<p><quote>I might be brave,</quote> said I. <quote>And I might be a
+cowboy. But,</quote>--and I pronounced every word clear and
+loud,--<quote>I wouldn’t care to take any spins in the air!</quote></p>
+
+<p><quote>Never mind him,</quote> put in Bearcat. <quote>He’s only
+foolin’. He just dotes on airyplanes and aviators and things like that.
+Why, that fellow is the original aviation fan!</quote></p>
+
+<p>Cleanin’ me! Can you beat that--or tie it, even? I was struck
+dumb.</p>
+
+<milestone rend="stars"/>
+
+<p>The flivver went bouncing across the pasture and stopped alongside
+the airyplane. The aviators got out and started screwing up loose
+connections.</p>
+
+<p><quote>It’s no use, Bearcat,</quote> I stated very firm. <quote>I
+have no taste for aviation.</quote> I’d heard about people riding in
+airyplanes, but I wasn’t sufficiently informed on the subject to enter
+into discussion of it. Furthermore, I’d just as soon it hadn’t been
+brought to my attention.</p>
+
+<p>But Bearcat was a stubborn cuss and gifted with the power of
+persuasion. There wasn’t nothing he didn’t know about the safety devices
+used in modern aviation. For instance: out of 15,347 flights launched in
+the State of Maryland alone, in one year, fourteen only had been fatal.
+Which to his way of thinkin’ was a very low rate. Accordin’ to my
+opinion, fourteen dead men was fourteen dead men, even if everybody in
+Maryland had all gone crazy and took to leaping around in the air like a
+bunch of whizzing pelicans.</p>
+
+<p><quote>Here!</quote> said Bearcat. <quote>While the man is tyin’ a
+few of the vital parts together with hay-wire, I will explain the
+fundamental principles to you. This,</quote> he declaimed, pointing to a
+couple of oars, <quote>this is the paddle. It paddles the wings.
+This,</quote> he continued, indicating a growth on the tail end,
+<quote>this takes the place of the tailfeathers on a bird.</quote></p>
+
+<milestone rend="stars"/>
+
+<p>But I wasn’t to be misled so easy; and anyway, if Bearcat knew the
+difference between a doughnut-cutter and a two-dollar bill, he had never
+showed any signs of it to me. Besides, I have an eye for details, and he
+can’t make me believe that a good Number One airyplane should have rusty
+spots on it and be punched full of holes. When a Ford leaks oil, there’s
+something wrong with it. Well, that thing leaked oil. And the longer I
+inspected the wreck of old 97, the more I was reminded of a busted kite
+which had been drug through a prickly-pear thicket.</p>
+
+<p>Just then I overheard part of the conversation between the
+aviators.</p>
+
+<p><quote>You give me a hand gettin’ started,</quote> said one.
+<quote>Then you can take our stuff to San Dominick in the
+car.</quote></p>
+
+<p><quote>Got enough gas for this flight?</quote> asked the other.</p>
+
+<p><quote>Well, I wouldn’t be too sure, but I think there’s
+enough.</quote></p>
+
+<p><emph>He thought there was enough!</emph> Well sir, right then is
+when I made up my mind to take a airyplane trip. If that bleary-eyed
+fool was willin’ to run out of gas while flyin’ through the ether, I was
+too!</p>
+
+<p>I noticed Bearcat had bleached out some. <quote>Did you hear
+that?</quote> he whispered.</p>
+
+<figure rend="center70">
+  <graphic url="images/illus-001.png"/>
+  <head>I glanced fearfully back over my shoulder. The marshal led the chase; right on his heels Battling Mary followed, brandishing her human leg.</head>
+  <figDesc>A lady running toward a crashed biplane</figDesc>
+</figure>
+
+<p><quote>Shore!</quote> says I. <quote>Did you know that out of
+twenty-six fatal airyplane wrecks in Arkansaw alone, twenty-five was
+caused from runnin’ out of gas? But shucks, there aint nothing to worry
+about. The gadget paddles the wings and the pin-feathers do the rest.
+Nothing to it!</quote></p>
+
+<p><quote>Hum!</quote> growls Bearcat lookin’ suspicious.
+<quote>Hum!</quote></p>
+
+<p>About then the experts had decided everything was O.K., and they got
+ready to start her up. Me and Bearcat moved to a safe location where we
+could watch, and the pilot clumb in and fiddled around with various
+gimmicks. The other bird stood by the paddle.</p>
+
+<p><quote>Contact!</quote> he yells--just like that.</p>
+
+<p><quote>Contact!</quote> growls the other fellow in a deep tone of
+voice. Then the <foreign>hombre</foreign> outside puts on a dance, the
+likes of which I have never witnessed before, not even durin’ my stay
+with the Osages. He grabs one end of the paddle, throws one leg up in
+the graceful fashion of a toe-dancer, swings and shivers a couple of
+times and jerks down on it.</p>
+
+<p>Nothing happens. I felt sorry for him. You could tell he was
+disappointed. Something big should have come of it.</p>
+
+<p>He looks up pitiful-like and yelps again: <quote>Contact!</quote></p>
+
+<p><quote>Contact!</quote> rumbles the pilot, and on with the dance. The
+fellow goes through every single motion again. You could tell it was a
+question of great importance not to miss anything. He pounces down on
+that paddle like a hungry coyote on a gopher. And then--hell busts
+loose!</p>
+
+<milestone rend="stars"/>
+
+<p>My hat is jerked off my head like it had been shot off,
+and my shirt casts loose from its moorings and flies up in my face,
+blinding me complete. I falls over backward, clutching wildly for
+support. I feels a form wriggling under me. <quote>Get off’n me, you
+idjit!</quote> yelps a faint voice through the roar and thunder of the
+cyclone and hailstorm raging around us. <quote>Get off from under
+me,</quote> I replies, peeved. <quote>I saw that hole first!</quote></p>
+
+<p>I managed to pull the shirt off my face and took a quick look around.
+Well, could you believe it? There wasn’t no cyclone. Everything was fine
+and serene as before, only the old paddle had gone wild, and the tin
+whipporwill was shakin’ fearsome, and roaring like four hundred mad
+bulls in a tunnel. The aviator was waving for us to get on. Holding our
+hats against our ears, we circled the old butter-tub on the run and
+approached it from the rear. I dumb in a hole in front of the pilot, and
+Bearcat settled himself in another hole in front of me.</p>
+
+<p>All at once the roaring increased--although I wouldn’t of thought it
+possible--and we started bumping across the field. Faster and faster we
+lunged along until the air was slapping me in the face like a wet
+saddle-blanket.</p>
+
+<milestone rend="stars"/>
+
+<p>Ever since a safe fell on me when I was little, I have been given to
+imagining wrecks and catastrophes. I didn’t need to stretch my
+imagination now. First I got to thinkin’ what would happen if we come
+across a big ditch, or a rock, or a cow or other objects too ghastly to
+dwell upon. Then I looked down, and there it was--a fresh-plowed field
+which looked rougher to me than a chain of mountains.... Lord, Lord,
+thinks I, this is no place for old Slocum Bill. I still have a chance to
+get away from this hell-bending Roman candle, and I aims to take it. I
+starts to climb off, whatever comes of it. I am accustomed to fallin’
+and rollin’ on the ground. I know how to relax and protect myself. But
+all them fine principles don’t apply to a smashed-up orange crate with
+wings. Now is the time for me and 97 to separate, for better or for
+worse.</p>
+
+<p>I am about half out when I feels a hand on my shoulder. I takes a
+look and sees the pilot smiling, and then I makes a startling discovery.
+We had left old Mother Earth and I was about to fling myself through a
+hundred feet of empty air and not a hand-holt in sight! What’s more, I
+caught a glimpse of a big car tearing down the road toward us, and in it
+was the marshal and Battling Mary and several other warlike-looking
+parties.</p>
+
+<p>I settled back in my seat and watches the plowed field shrink to the
+size of a handkerchief. Well, here we are--it’s too late to do anything
+now! I have one happy thought, and that’s what I will do to Bearcat
+Gibson for getting me into such a predicament. We fly on and on through
+the exhilarating ether, gasping for breath and watching the scenery from
+where no scenery should be seen.</p>
+
+<milestone rend="stars"/>
+
+<p>After about ten minutes my sensible ears began to tell me there was
+something rotten somewhere not connected with the state of Denmark. I
+don’t know if an airyplane in good working order is supposed to sputter,
+but this one was sputtering, and I didn’t like it. Bearcat looked back
+at me, and his bogged-out eyes did not indicate a peaceful state of
+mind, either. I craned my neck around, and while I was doing so the
+sputtering changed to coughing, and the coughing died out, and our pilot
+said so we both could hear it: <quote>Outa gas ... Hold tight ... I’ll
+land ’er ... No trouble.</quote></p>
+
+<p>Can you imagine a ring-tailed son-of-a-gun like that one? No trouble!
+Oh, no, no trouble at all! Maybe he thought us being in front, we would
+kinda break the fall for him. He began circling his busted skyrocket in
+wide loops, and the first thing I knew we was skimming trees and
+housetops.</p>
+
+<p>The trouble was the fields in that country was too small, and there
+was too many obstacles in the way, and we was goin’ too fast to let a
+little thing like a greenhouse stop us. The only indication we had of
+goin’ through that greenhouse was a merry tinkle of broken glass and a
+whiff of flowers in bloom. Two big red geraniums fanned my cheeks; a
+bunch of gladiolas settled in my streamin’ hair: and my lap was suddenly
+piled high with an assortment of posies and ferns.</p>
+
+<p>On, like a wild bounding antelope we went, over a clover-field,
+bouncing over a culvert, across a road, into a cemetery, sowin’ flowers
+and airyplane parts over the graves, merrily knockin’ down tombstones
+and monuments right and left.</p>
+
+<p>The thrill of a lifetime? Well, I hope to tell you!</p>
+
+<milestone rend="stars"/>
+
+<p>Once I thought I lost an eye in an apple orchard, but it wasn’t
+knocked out for good. It got all right in a couple of months. We also
+visited a watermelon patch, but soon left it behind after a good deal of
+crunching, and uprootin’ of trailin’ vines.</p>
+
+<p>Bumping across a terrorized countryside at the speed of a comet, we
+met head-on with a herd of geese, and their goslings trooping innocently
+behind. A large cloud of feathers arose and was gone. A big red barn
+took a wing from us; a henhouse got the other. The paddle had busted in
+ten thousand splinters when crossin’ the cornfield.</p>
+
+<p>A creek loomed ahead, but it was a shallow one, and we forded it
+successfully. Had it not been for the opposite bank, which rose straight
+in the air, there is no tellin’ how much farther we would have roamed,
+scattering death and destruction in our wake. But even that go-devil of
+an outfit couldn’t get the best of a bank composed mostly of large
+rocks. There was a terrible crash; then the peaceful silence of an
+afternoon in the country.</p>
+
+<p>I don’t recollect much after that, only it seemed that I had a
+wonderful dream in which I lived over some of the past happenings.
+Bearcat floated through the air by my side. There was a ring of light
+around his big hat. and he flopped around with the help of a pair of
+wings. His open mouth was relaxed in the loving smile of an angel, and a
+large floral wreath bearing the golden inscription <hi><quote>Rest in
+Peace</quote></hi> hung about his shoulders. You could just imagine the
+mourners, heads bowed in sorrow, and the soft, mellow notes of an organ
+playing, “Here comes the bride--”</p>
+
+<milestone rend="stars"/>
+
+<p>I could have remained in that position for hours,
+thinking beautiful thoughts. Our breathless dash across the country was
+something to look back on and write home about--the informal visit in the
+greenhouse, the evening scamper across the cemetery, the good-natured
+pushin’ over of tombstones, the playful manner in which we
+had destroyed orchards, cornfields and barnyard fowls;
+I’ll tell you, it was something to quicken a man’s breath and make his
+eyes sparkle!</p>
+
+<p>Then a harsh note tore me from this dream--several harsh notes, to be
+exact. I opened one eye--and then I shut it again very sudden.</p>
+
+<p>The dream had changed now to a nightmare. Loud, grinding voices
+argued back and forth. I pinched myself to make sure I was awake....</p>
+
+<p>I lay in a bed, a nice clean white bed. The well-known hospital smell
+was in the air. Cautiously, I opened the eye again to make sure I’d seen
+right the first time.</p>
+
+<p>A group of excited people stood by my bed. Two of the figures I
+recognized only too well. One was tall and had a long flowing spotted
+mustache. The other had black skirts and a terrible disposition. Old
+Walrus and Battling Mary!</p>
+
+<p><quote>Yes indeed, it’s them!</quote> screamed Mary. <quote>Don’t I
+know the scoundrels? Didn’t I see them destroy hundreds of dollars’
+worth of merchandise for me? Will I, or will I not, get
+justice?</quote></p>
+
+<p><quote>Be calm, madam, be calm!</quote> said a soothing voice.
+<quote>They are in no shape to be questioned now. They have some money
+which we have deposited in our safe. We feel sure it will more than
+cover your claims--</quote></p>
+
+<milestone rend="stars"/>
+
+<p>The group moved from the bed, and I took a look around. Bearcat was
+stretched out in another cot, close by. Unconsciousness had give him a
+look of almost human intelligence.</p>
+
+<p>Our good bronk-ridin’ money to go for ruint lingerie!</p>
+
+<p>Just then I saw old Walrus glarin’ at me. His Adam’s apple was
+travelin’ at a terrific rate of speed. Gosh, that man was mad! I
+remembered him wallowin’ under the dummies and all the silk
+what-nots--and I covered up my head, and the white sheet began to shake,
+quiver and roll.</p>
+
+<p>A nurse run out and pulled the covers from my tearful face. She was a
+stunning-looking girl!</p>
+
+<p>She patted my pillow, a smile on her lips. Oh, well, maybe things
+wasn’t as bad as they looked.</p>
+
+<p><quote>You’re a funny one,</quote> said the nurse. <quote>Unconscious
+one minute, laughing fit to be tied the next. You cowboys are strange
+fellows.</quote></p>
+
+<p><quote>Lady,</quote> said I, <quote>you don’t know the half of
+it!</quote></p>
+
+</div>
+
+    </body>
+    <back>
+      <p rend='tn'>[Transcriber’s note: This story appeared in the March, 1929
+      issue of <hi rend="italic">The Blue Book</hi> magazine.]</p>
+    </back>
+  </text>
+</TEI>
