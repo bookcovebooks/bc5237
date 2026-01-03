@@ -17,16 +17,7 @@ wild, humorous tale of Old West mischief colliding with early aviation.
 
 ## Keywords
 
-"western comedy fiction",
-"cowboy adventure story",
-"early aviation humor",
-"rodeo riders tale",
-"Old West humor",
-"vintage airplane adventure",
-"comic Western novel",
-"1920s cowboy story",
-"slapstick Western fiction",
-"aviation frontier comedy"
+"western comedy fiction", "cowboy adventure story", "early aviation humor", "rodeo riders tale", "Old West humor", "vintage airplane adventure", "comic Western novel", "1920s cowboy story", "slapstick Western fiction", "aviation frontier comedy"
 
 ## About This Repository
 
@@ -37,7 +28,7 @@ output formats for the [bookcove](https://bookcove.net) collection.
 
 \- `metadata.json` metadata (title, author, publication info, subjects)  
 \- `<filename>.xml` Book content in XML format  
-\- `css/` Stylesheets for different output formats  
+\- `style.css` Stylesheet with conditionals for HTML and EPUB  
 \- `images/` Illustrations and figures  
 \- `cover.jpg` Cover image  
 \- other subdirectories as needed (i.e. `music/` or `fonts/`)  
